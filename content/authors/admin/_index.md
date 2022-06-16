@@ -2,12 +2,12 @@
 role: Assistant Clinical Professor of Medicine - Department of Pulmonary
   Critical Care Medicine
 avatar_filename: headshot.jpg
-bio: Critical Care, Clnical Informatics, Data infrastructure and warehousing,
-  AI/ML in Critical Care
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Critical Care
+  - Clnical Informatics
+  - Data infrastructure and warehousing
+  - AI/ML in Critical Care
 social:
   - icon: envelope
     icon_pack: fas
@@ -47,4 +47,4 @@ Thomas A. Nahass, MD, MS is an Assistant Clinical Professor of Medicine in the D
 
 He is clinically interested in data driven practice of critical care medicine, the integration of various hospital systems to create collaboration and data tools for research in the ICU. He also focuses on the improvement of hospital and provider outcomes through improved efficiency of EHR workflow.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}} now.

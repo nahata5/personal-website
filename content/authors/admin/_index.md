@@ -6,7 +6,7 @@ interests:
   - Critical Care
   - Clnical Informatics
   - Data infrastructure and warehousing
-  - AI/ML in Critical Care
+  - AI/ML in ICU
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,9 +34,18 @@ organizations:
     url: https://www.rwjbh.org/
 education:
   courses:
+    - course: Fellow, Critical Care Medicine
+      institution: Memorial Sloan Kettering Cancer Center
+      year: 2022
     - course: MS in Health and Clinical Informatics
       institution: Oregon Health and Science University
       year: 2022
+    - course: Resident, Internal Medicine
+      institution: Rutgers Robert Wood Johnson Medical School
+      year: 2020
+    - course: Intern, Internal Medicine
+      institution: Rutgers Robert Wood Johnson Medical School
+      year: 2018
     - course: MD
       institution: Rutgers Robert Wood Johnson Medical School
       year: 2017

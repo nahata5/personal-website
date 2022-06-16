@@ -14,19 +14,25 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/tomnahass
+    display:
+      header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Thomas-Nahass
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/nahata5
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/thomas-nahass/
+    display:
+      header: true
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Rutgers University
+    url: https://www.rutgershttps://umg.rwjms.rutgers.edu/departments/medicine/divisions/pulmonary_critical_care.php.edu/
+  - name: Robert Wood Johnson Barnabas Health
+    url: https://www.rwjbh.org/
 education:
   courses:
     - course: PhD in Artificial Intelligence

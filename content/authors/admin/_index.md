@@ -1,7 +1,6 @@
 ---
-role: Assistant Clinical Professor of Medicine - Department of Pulmonary
-  Critical Care Medicine
-avatar_filename: headshot.jpg
+role: Assistant Clinical Professor Department of Pulmonary Critical Care Medicine
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Critical Care

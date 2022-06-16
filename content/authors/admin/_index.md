@@ -34,19 +34,10 @@ organizations:
     url: https://www.rwjbh.org/
 education:
   courses:
-    - course: Fellow, Critical Care Medicine
-      institution: Memorial Sloan Kettering Cancer Center
-      year: 2022
     - course: MS in Health and Clinical Informatics
       institution: Oregon Health and Science University
       year: 2022
-    - course: Resident, Internal Medicine
-      institution: Rutgers Robert Wood Johnson Medical School
-      year: 2020
-    - course: Intern, Internal Medicine
-      institution: Rutgers Robert Wood Johnson Medical School
-      year: 2018
-    - course: MD
+    - course: MD in Internal Medicine
       institution: Rutgers Robert Wood Johnson Medical School
       year: 2017
     - course: BA in Music Composition

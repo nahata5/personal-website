@@ -34,15 +34,15 @@ organizations:
     url: https://www.rwjbh.org/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Health and Clinical Informatics
+      institution: Oregon Health and Science University
+      year: 2022
+    - course: MD
+      institution: Rutgers Robert Wood Johnson Medical School
+      year: 2017
+    - course: BA in Music Composition
+      institution: Wake Forest University
+      year: 2010
 superuser: true
 highlight_name: true
 title: Thomas A. Nahass, MD, MS

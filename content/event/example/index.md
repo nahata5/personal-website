@@ -2,12 +2,11 @@
 abstract: A brief overview of the landscape of AI/ML as it pertains to Critical Care
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
-date_end: 2022-04-27T17:30:00.000Z
+summary: Discussion of current and past AI/ML landscape in the ICU
 event_url: https://link
 authors: []
 url_video: ""
-date: 2022-04-27T04:30:00.000Z
+date: 2022-04-27T12:30:00.000Z
 featured: false
 url_slides: ""
 address:

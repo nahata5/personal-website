@@ -16,10 +16,31 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+#  - description:
+#     icon: python
+#     icon_pack: custom
+#     name: Point-of-care Ultrasound
+#  - description:
+#     icon: python
+#     icon_pack: custom
+#     name: Data Visualization
+  - description:
+    icon:
+    icon_pack:
+    name: Point-of-care Ultrasound (POCUS)
+  - description:
+    icon:
+    icon_pack:
+    name: Data Visualization
+  - description:
+    icon:
+    icon_pack:
+    name: HL7, SNOMED, ICD-10
   - description:
     icon: python
     icon_pack: custom
     name: Python
+
   - description: 
     icon: r-project
     icon_pack: fab
@@ -28,7 +49,7 @@ feature:
     icon: sql
     icon_pack: custom
     name: SQL
-  - description: Power User, Notecraft, *PENDING - Physician Builder, Physician Builder Analyst, Physician Builder - Cogito*
+  - description: Power User, Notecraft
     icon: Epic_Systems
     icon_pack: custom
     name: Epic Certifications

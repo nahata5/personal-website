@@ -24,35 +24,38 @@ feature:
 #     icon: python
 #     icon_pack: custom
 #     name: Data Visualization
+  - description: 
+    icon: r-project
+    icon_pack: fab
+    name:
+  
   - description:
-    icon:
-    icon_pack:
-    name: Point-of-care Ultrasound (POCUS)
-  - description:
-    icon:
-    icon_pack:
-    name: Data Visualization
-  - description:
-    icon:
-    icon_pack:
-    name: HL7, SNOMED, ICD-10
+    icon: sql
+    icon_pack: custom
+    name: SQL
+
   - description:
     icon: python
     icon_pack: custom
     name: Python
 
-  - description: 
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description:
-    icon: sql
-    icon_pack: custom
-    name: SQL
-  - description: Power User, Notecraft
+  - description: Power User, Physician Builder, Cogito
     icon: Epic_Systems
     icon_pack: custom
-    name: Epic Certifications
+    name: 
+
+  - description:
+    icon: ultrasound
+    icon_pack: custom
+    name: Point-of-care Ultrasound (POCUS)
+
+  - description:
+    icon: hl7
+    icon_pack: custom
+    name:
+
+
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

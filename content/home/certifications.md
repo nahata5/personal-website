@@ -41,6 +41,24 @@ item:
     title: Notecraft for Physician Builder Certification
     url: ''
 
+  - certificate_url: https://www.epic.com/
+    date_end: ''
+    date_start: '2022-06-24'
+    description: ''
+    organization: Epic Systems
+    organization_url: https://www.epic.com/
+    title: Physician Builder
+    url: ''
+  
+  - certificate_url: https://www.epic.com/
+    date_end: ''
+    date_start: '2022-06-18'
+    description: ''
+    organization: Epic Systems
+    organization_url: https://www.epic.com/
+    title: Physician Builder - Analytics
+    url: ''
+
   # - certificate_url: https://www.edx.org
   #   date_end: ''
   #   date_start: '2021-01-01'

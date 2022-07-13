@@ -25,16 +25,16 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.epic.com/
     date_end: ''
-    date_start: '2022-06-15'
+    date_start: '2022-06-24'
     description: ''
     organization: Epic Systems
     organization_url: https://www.epic.com/
-    title: Power User Certification
+    title: Physician Power User
     url: ''
   
   - certificate_url: https://www.epic.com/
     date_end: ''
-    date_start: '2022-06-15'
+    date_start: '2022-06-10'
     description: ''
     organization: Epic Systems
     organization_url: https://www.epic.com/
@@ -52,11 +52,20 @@ item:
   
   - certificate_url: https://www.epic.com/
     date_end: ''
-    date_start: '2022-06-18'
+    date_start: '2022-06-22'
     description: ''
     organization: Epic Systems
     organization_url: https://www.epic.com/
     title: Physician Builder - Analytics
+    url: ''
+  
+  - certificate_url: https://www.epic.com/
+    date_end: ''
+    date_start: '2022-07-13'
+    description: ''
+    organization: Epic Systems
+    organization_url: https://www.epic.com/
+    title: Physician Builder - Healthy Planet
     url: ''
 
   # - certificate_url: https://www.edx.org

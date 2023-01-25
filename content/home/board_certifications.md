@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2022-11-28'
     description: 
-    organization: ABIM
+    organization: American Board of Internal Medicine
     organization_url: https://www.abim.org/
     title: Critical Care - Board Certified
   
@@ -35,7 +35,7 @@ item:
     date_end: ''
     date_start: '2023-01-01'
     description: ''
-    organization: ABPM
+    organization: American Board of Preventative Medicine
     organization_url: https://www.abpm.org
     title: Clinical Informatics - Board Certified
     url: ''
@@ -44,7 +44,7 @@ item:
     date_end: ''
     date_start: '2020-08-15'
     description: ''
-    organization: ABIM
+    organization: American Board of Internal Medicine
     organization_url: https://www.abim.org
     title: Internal Medicine - Board Certified
     url: ''

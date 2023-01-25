@@ -23,25 +23,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
+  - certificate_url: https://www.abim.org/verify-physician.aspx?type=id&id=413400
     date_end: ''
     date_start: '2022-11-28'
     description: 
     organization: American Board of Internal Medicine
     organization_url: https://www.abim.org/
-    title: Critical Care - Board Eligible
-    url: ''
+    title: Critical Care - Board Certified
   
   - certificate_url: 
     date_end: ''
-    date_start: '2022-10-15'
+    date_start: '2023-01-01'
     description: ''
     organization: American Board of Preventative Medicine
     organization_url: https://www.abpm.org
-    title: Clinical Informatics - Board Eligible
+    title: Clinical Informatics - Board Certified
     url: ''
   
-  - certificate_url: https://www.abim.org/verify-physician?type=name&ln=nahass&fn=thomas
+  - certificate_url: https://www.abim.org/verify-physician.aspx?type=id&id=413400
     date_end: ''
     date_start: '2020-08-15'
     description: ''

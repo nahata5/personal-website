@@ -48,7 +48,7 @@ highlight_name: true
 title: Thomas A. Nahass, MD, MS
 email: ""
 ---
-Thomas A. Nahass, MD, MS is an Assistant Clinical Professor of Medicine in the Department of Pulmonary Critical Care at Rutgers Robert Wood Johnson Medical School. He is additionally a Physician Champion at Robert Wood Johnson Barnabas Health. He is currently board-certified in Internal Medicine, board-eligible in Critical Care and Clinical Informatics, and holds a Master's degree in Health and Clinical Informatics.
+Thomas A. Nahass, MD, MS is an Assistant Clinical Professor of Medicine in the Department of Pulmonary Critical Care at Rutgers Robert Wood Johnson Medical School. He is additionally a Physician Champion at Robert Wood Johnson Barnabas Health. He is currently triple board certified in Internal Medicine, Critical Care, Clinical Informatics, and holds a Master's degree in Health and Clinical Informatics.
 
 He is clinically interested in the data driven practice of critical care medicine, the integration of various hospital systems to create collaboration and data tools for research in the ICU. He also focuses on the improvement of hospital and provider outcomes through improved efficiency of EHR workflow.
 

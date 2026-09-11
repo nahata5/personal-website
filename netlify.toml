@@ -15,6 +15,17 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+# VentSim alias: tomnahass.com/vent-sim/ proxies the separate Netlify site (vent-sim README, D-008).
+[[redirects]]
+  from = "/vent-sim"
+  to = "/vent-sim/"
+  status = 301
+
+[[redirects]]
+  from = "/vent-sim/*"
+  to = "https://vent-sim.netlify.app/:splat"
+  status = 200
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]

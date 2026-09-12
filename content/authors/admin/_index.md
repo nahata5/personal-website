@@ -27,9 +27,12 @@ social:
     link: https://www.linkedin.com/in/thomas-nahass/
     display:
       header: true
+  - icon: user-md
+    icon_pack: fas
+    link: https://www.doximity.com/pub/thomas-nahass-md
 organizations:
   - name: Rutgers University
-    url: https://www.rutgershttps://umg.rwjms.rutgers.edu/departments/medicine/divisions/pulmonary_critical_care.php.edu/
+    url: https://umg.rwjms.rutgers.edu/departments/medicine/divisions/pulmonary_critical_care.php
   - name: Robert Wood Johnson Barnabas Health
     url: https://www.rwjbh.org/
 education:

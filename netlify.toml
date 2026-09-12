@@ -15,7 +15,13 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-# VentSim alias: tomnahass.com/vent-sim/ proxies the separate Netlify site (vent-sim README, D-008).
+# ---------------------------------------------------------------------------
+# Redirects are evaluated top to bottom; the first match wins. The /vent-sim
+# proxy must stay above the catch-all so it keeps serving from this domain.
+# ---------------------------------------------------------------------------
+
+# VentSim alias: tomnahass.com/vent-sim/ proxies the separate Netlify site
+# (vent-sim README, D-008).
 [[redirects]]
   from = "/vent-sim"
   to = "/vent-sim/"
@@ -25,6 +31,39 @@
   from = "/vent-sim/*"
   to = "https://vent-sim.netlify.app/:splat"
   status = 200
+
+# tomnahass.com has been consolidated into nahass.ai. Old Hugo routes are
+# mapped to their nearest equivalent; everything else goes to the homepage.
+# `force = true` is required so these win over files Hugo still publishes.
+[[redirects]]
+  from = "/publication/*"
+  to = "https://nahass.ai/cv/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/talk/*"
+  to = "https://nahass.ai/cv/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/event/*"
+  to = "https://nahass.ai/cv/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/authors/*"
+  to = "https://nahass.ai/about/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "https://nahass.ai/"
+  status = 301
+  force = true
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"

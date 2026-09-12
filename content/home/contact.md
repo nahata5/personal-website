@@ -25,7 +25,8 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: nahassta@rwjms.rutgers.edu
+  # Email is exposed as a labelled link in `contact_links` below rather than as
+  # plain text, so the address is not printed on the page.
   # phone: 888 888 88 88
   address:
     street: 1 Robert Wood Johnson Place
@@ -43,6 +44,14 @@ content:
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   contact_links:
+    - icon: envelope
+      icon_pack: fas
+      name: Email
+      link: 'mailto:nahassta@rwjms.rutgers.edu'
+    - icon: user-md
+      icon_pack: fas
+      name: Doximity
+      link: 'https://www.doximity.com/pub/thomas-nahass-md'
     - icon: twitter
       icon_pack: fab
       name: DM Me
